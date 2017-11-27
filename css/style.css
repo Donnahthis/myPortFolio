@@ -1,4 +1,5 @@
 #landing-page-container-fluid {
+<<<<<<< HEAD
   background-image: url("../img/beautiful_ocean_maldives_516046.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -165,3 +166,9 @@ h3 {
         vertical-align: right;
         text-shadow: black;
   }
+=======
+  background-image: url("../img/images.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+>>>>>>> 7d59a68f0ec74b4455e7902569fb0e806d5f815d
